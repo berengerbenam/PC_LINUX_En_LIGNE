@@ -1,0 +1,2 @@
+https://www.ovh.sn/order/vps/?v=3#/vps/build?selection=~(range~'Elite~pricingMode~'degressivity12~flavor~'vps-elite-8-16-640~datacenters~(GRA~1))
+https://www.ovhcloud.com/fr-sn/vps/os/vps-linux/
